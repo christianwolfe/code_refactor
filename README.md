@@ -5,7 +5,7 @@ First Homework Assignment
 
 This is a HTML refactor homework assignment. The objective being to factor an exisitng webpage using HTML semantic tags. 
 
-The following Semantic tags were used in lieu of standard <div> : 
+The following Semantic tags were used in lieu of a standard div : 
 
 * Figure
 * Header
