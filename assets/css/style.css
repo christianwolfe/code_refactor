@@ -50,7 +50,8 @@ p {
     font-size: 16px;
 }
 
-figure{
+/* Hero Image */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,6 +60,7 @@ figure{
     background-position: center;
 }
 
+/* Image Floats */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,6 +70,9 @@ figure{
     float: right;
     margin-left: 25px;
 }
+/* End Image Floats */
+
+/* Layout */
 
 main {
     width: 75%;
@@ -86,6 +91,8 @@ aside {
     background-color: #2589bd;
 }
 
+/* Aside style */
+
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +108,7 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
+/* End aside styles */
 
 .services {
     margin-bottom: 20px;
